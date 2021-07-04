@@ -1,3 +1,4 @@
 ## All Quick links
-* [Console Practise](https://jslink.tk/console-practise "Click this link to visit the console practise page")
-* [Console Practise](https://jslink.tk/variable-practise "Click this link to visit the variable practise page")
+* [Console](https://jslink.tk/console "Click this link to visit the console page")
+* [Variable](https://jslink.tk/variable "Click this link to visit the variable page")
+* [Data Types](https://jslink.tk/datatypes "Click this link to visit the Data Types page")
